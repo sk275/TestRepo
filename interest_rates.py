@@ -13,3 +13,6 @@ def add_method(a, b):
 
 def subtract_method(a, b):
     return a-b
+
+def divide_method(x,y):
+    return x/y
