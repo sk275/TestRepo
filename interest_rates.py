@@ -7,3 +7,6 @@ r: net interest rate
 """
 
     return (1+r/n)**(n*t)
+
+def add_method(a, b):
+    return a+b
